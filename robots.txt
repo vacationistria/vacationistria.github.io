@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vacation-istria.com/sitemap.xml
