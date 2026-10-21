@@ -361,7 +361,7 @@ figure{margin:0}
 .blk > .wrap{max-width:calc(1000px + 2 * var(--gut))}
 .row.one > .prose,.prose,.essay{max-width:none}
 .blk .prose{font-size:1.09rem;line-height:1.72}
-.blk .prose p,.blk .ans p,.blk .promo-body p,.blk .slide-body p{text-align:justify;hyphens:auto;-webkit-hyphens:auto;text-wrap:pretty}
+.blk .prose p,.blk .ans p,.blk .promo-body p,.blk .slide-body p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 .blk .prose h2,.blk .prose h3,.blk .prose h4{text-wrap:balance}
 
 /* air between photos, galleries, videos and the text around them */
