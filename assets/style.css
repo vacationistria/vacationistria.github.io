@@ -443,3 +443,6 @@ main .slab-sub,main .hero-kicker,main .hero-sub,main .tile-text *,main .place-gr
 /* a paragraph that is only a bold line works as a sub-heading – no stretched word gaps */
 main p.sub{text-align:left!important;hyphens:manual}
 .gal + .gal{margin-top:clamp(.5rem,1vw,.8rem)}
+
+/* eyebrow labels above section headings (were h5/h6) */
+.prose .kicker,.kicker{font-family:var(--text);font-style:italic;font-weight:500;font-size:1.1rem;color:var(--sea-2);letter-spacing:0;margin:0 0 .35em;text-align:left}
